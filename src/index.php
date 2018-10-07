@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Test a new deployment. Hello World!</h1>
+                <h1>Hope this works!!</h1>
                 <h2>Testing 123. Testing time of deploy</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
